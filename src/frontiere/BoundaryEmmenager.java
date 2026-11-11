@@ -27,7 +27,6 @@ public class BoundaryEmmenager {
 					break;
 
 				case 2:
-					//TODO a completer
 					StringBuilder question2 = new StringBuilder();
 					question2.append("Bienvenue villageois ");
 					question2.append(nomVisiteur);
@@ -48,7 +47,6 @@ public class BoundaryEmmenager {
 	}
 
 	private void emmenagerDruide(String nomVisiteur) {
-		//TODO a completer
 		StringBuilder question = new StringBuilder();
 		question.append("Bienvenue druide ");
 		question.append(nomVisiteur);
